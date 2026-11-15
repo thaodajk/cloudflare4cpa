@@ -1,0 +1,14 @@
+{
+  "plugins": [
+    {
+      "id": "cloudflare-ai",
+      "name": "Cloudflare Workers AI",
+      "description": "Cloudflare Workers AI provider plugin - 28 free models (10k neurons/day)",
+      "author": "thaodajk",
+      "repository": "https://github.com/thaodajk/cloudflare4cpa",
+      "install_type": "github-release",
+      "tags": ["Provider", "Free"],
+      "license": "MIT"
+    }
+  ]
+}
